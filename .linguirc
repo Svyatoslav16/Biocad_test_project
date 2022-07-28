@@ -1,0 +1,12 @@
+{
+  "locales": ["en", "ru"],
+  "sourceLocale": "en",
+  "catalogs": [
+    {
+      "path": "locales/{locale}/messages",
+      "include": ["pages", "src"],
+      "exclude": ["**/node_modules/**"]
+    }
+  ],
+  "format": "po"
+}

@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#: src/components/Navigation/Navigation.tsx:11
+#~ msgid "ABOUT_COMPANY"
+#~ msgstr "About company"
+
+#: src/components/Footer/Footer.tsx:89
+msgid "ANTI_CORRUPTION_POLICY"
+msgstr "Anti corruption policy"
+
+#: src/components/Main/components/DrugsInDevelopmentTable/Info.tsx:29
+msgid "AUTOIMMUNE_DISEASES"
+msgstr "Autoimmune diseases"
+
+#: src/components/Navigation/Navigation.tsx:94
+#: src/components/Navigation/Navigation.tsx:139
+msgid "CAREER"
+msgstr "Career"
+
+#: src/components/Main/components/DrugsInDevelopmentTable/columns.tsx:142
+#: src/components/Main/components/DrugsInDevelopmentTable/columns.tsx:153
+#: src/components/Main/components/DrugsInDevelopmentTable/columns.tsx:206
+#: src/components/Main/components/DrugsInDevelopmentTable/columns.tsx:217
+#: src/components/Main/components/DrugsInDevelopmentTable/columns.tsx:270
+#: src/components/Main/components/DrugsInDevelopmentTable/columns.tsx:281
+msgid "CLINICAL_TRIALS_PHASE_SHORT"
+msgstr "CI phase"
+
+#: src/components/Footer/Footer.tsx:69
+msgid "COMMERCIAL_POLICY"
+msgstr "Commercial policy"
+
+#: src/components/Navigation/Navigation.tsx:50
+#: src/components/Navigation/Navigation.tsx:116
+msgid "COMPANY_LOGO"
+msgstr "Company logo"
+
+#: src/components/Navigation/Navigation.tsx:106
+#: src/components/Navigation/Navigation.tsx:151
+msgid "CONTACTS"
+msgstr "Contacts"
+
+#: src/components/Footer/Footer.tsx:64
+msgid "COURSE_TO_RECOVERY"
+msgstr "Course torecovery"
+
+#: src/components/Main/Main.tsx:66
+msgid "DATA_UPDATED_QQUARTERLY"
+msgstr "the data updated quarterly"
+
+#: src/components/Main/components/DrugsInDevelopmentTable/columns.tsx:87
+msgid "DEVELOPMENT"
+msgstr "Development"
+
+#: src/components/Main/components/DrugsInDevelopmentTable/TableCapture.tsx:27
+msgid "DEVELOPMENT_STAGES"
+msgstr "Development stages"
+
+#: src/components/Main/Main.tsx:37
+msgid "DRUGS_IN_DEVELOPMENT_TITLE"
+msgstr "Drugs in development"
+
+#: src/components/Footer/Footer.tsx:94
+msgid "DRUG_SAFETY"
+msgstr "Drug safety"
+
+#: pages/index.tsx:58
+#~ msgid "Deploy"
+#~ msgstr "Deploy"
+
+#: src/components/Footer/Footer.tsx:79
+msgid "FOR_STUDENTS"
+msgstr "For students"
+
+#: src/components/Main/components/DrugsInDevelopmentTable/columns.tsx:67
+#: src/components/Main/components/DrugsInDevelopmentTable/columns.tsx:75
+msgid "INDICATION"
+msgstr "Indication"
+
+#: src/components/Main/components/DrugsInDevelopmentTable/columns.tsx:49
+#: src/components/Main/components/DrugsInDevelopmentTable/columns.tsx:60
+msgid "MECHANISM_ACTION_THERAPEUTIC_AGENT"
+msgstr "Mechanism of action of the therapeutic agent"
+
+#: src/components/Main/components/DrugsInDevelopmentTable/TableFilters.tsx:16
+msgid "MOLECULE_TYPE"
+msgstr "Molecule type"
+
+#: src/components/Navigation/Navigation.tsx:103
+#: src/components/Navigation/Navigation.tsx:148
+msgid "NEWS"
+msgstr "News"
+
+#: src/components/Main/components/DrugsInDevelopmentTable/Info.tsx:36
+msgid "ONCOLOGY"
+msgstr "Oncology"
+
+#: src/components/Main/components/DrugsInDevelopmentTable/Info.tsx:22
+msgid "ORPHAN_DISEASES"
+msgstr "Orphan diseases"
+
+#: src/components/Main/components/DrugsInDevelopmentTable/Info.tsx:43
+msgid "OTHER"
+msgstr "Other"
+
+#: src/components/Navigation/Navigation.tsx:109
+#: src/components/Navigation/Navigation.tsx:154
+msgid "PARTNERSHIP"
+msgstr "Partnership"
+
+#: src/components/Main/components/DrugsInDevelopmentTable/TableFilters.tsx:19
+msgid "PLATFORM"
+msgstr "Platform"
+
+#: src/components/Main/Main.tsx:65
+msgid "PLEASE_NOTE"
+msgstr "Please note"
+
+#: src/components/Footer/Footer.tsx:84
+msgid "POLICY_ON_PROCESSING_OF_PERSONAL_DATA"
+msgstr "Policy on processing of personal data"
+
+#: src/components/Navigation/Navigation.tsx:91
+#: src/components/Navigation/Navigation.tsx:136
+msgid "PRODUCTION"
+msgstr "Production"
+
+#: src/components/Navigation/Navigation.tsx:85
+#: src/components/Navigation/Navigation.tsx:130
+msgid "PRODUCTS"
+msgstr "Products"
+
+#: src/components/Main/components/DrugsInDevelopmentTable/TableCapture.tsx:25
+msgid "PRODUCT_INFO"
+msgstr "Product info"
+
+#: src/components/Main/components/DrugsInDevelopmentTable/columns.tsx:37
+#: src/components/Main/components/DrugsInDevelopmentTable/columns.tsx:38
+msgid "PRODUCT_NAME"
+msgstr "Product name"
+
+#: src/components/Main/components/DrugsInDevelopmentTable/TableFilters.tsx:13
+msgid "PRODUCT_TYPE"
+msgstr "Product type"
+
+#: src/components/Footer/Footer.tsx:104
+msgid "QUALITY_POLICY"
+msgstr "Quality policy"
+
+#: src/components/Main/components/DrugsInDevelopmentTable/columns.tsx:335
+#: src/components/Main/components/DrugsInDevelopmentTable/columns.tsx:345
+msgid "REGISTRATION"
+msgstr "Registration"
+
+#: src/components/Navigation/Navigation.tsx:88
+#: src/components/Navigation/Navigation.tsx:97
+#: src/components/Navigation/Navigation.tsx:133
+#: src/components/Navigation/Navigation.tsx:142
+msgid "SCIENCE"
+msgstr "Science"
+
+#: src/components/Navigation/Navigation.tsx:100
+#: src/components/Navigation/Navigation.tsx:145
+msgid "SUSTAINABLE_DEVELOPMENT"
+msgstr "Sustainable development"
+
+#: src/components/Main/components/DrugsInDevelopmentTable/TableFilters.tsx:22
+msgid "THERAPY_AREA"
+msgstr "Therapy area"
+
+#: src/components/Footer/Footer.tsx:99
+msgid "USER_AGREEMENT"
+msgstr "User agreement"
+
+#: src/components/Footer/Footer.tsx:74
+msgid "USE_OF_COOKIES"
+msgstr "Use of cookies"
